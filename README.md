@@ -33,8 +33,8 @@ Bu proje, Convolutional Neural Network (CNN) kullanarak görüntü sınıflandı
 
 1. **Proje Dosyalarını Klonlayın:**  
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   cd proje-adi
+   git clone https://github.com/immertt/CNNModel.git
+   cd CNNModel
    ```
 
 2. **Gerekli Kütüphaneleri Yükleyin:**  
@@ -60,6 +60,4 @@ Model, doğrulama setinde %XX doğruluk oranına ulaşmıştır. Eğitim süreci
 
 ## 🤝 **Katkı Sağlayın**  
 Herhangi bir hata bulursanız veya yeni özellikler eklemek isterseniz lütfen bir **pull request** gönderin veya **issue** açın.  
-
-## 📄 **Lisans**  
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.  
+  
